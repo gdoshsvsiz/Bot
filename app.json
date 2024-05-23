@@ -10,7 +10,6 @@
         "APP_ID": {
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
             "value": ""
-            "required": false
         },
         "API_HASH": {
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
